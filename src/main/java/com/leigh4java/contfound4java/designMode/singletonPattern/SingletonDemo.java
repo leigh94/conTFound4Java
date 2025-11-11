@@ -1,6 +1,4 @@
-package com.leigh4java.contfound4java.singletonPattern;
-
-import com.leigh4java.contfound4java.singletonPattern.EnumSingleton;
+package com.leigh4java.contfound4java.designMode.singletonPattern;
 
 public class SingletonDemo {
     public static void main(String[] args) {
