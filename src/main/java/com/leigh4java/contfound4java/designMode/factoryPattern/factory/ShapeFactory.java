@@ -1,6 +1,6 @@
 package com.leigh4java.contfound4java.designMode.factoryPattern.factory;
 
-import com.leigh4java.contfound4java.designMode.factoryPattern.Shape;
+import com.leigh4java.contfound4java.designMode.factoryPattern.entity.Shape;
 
 /**
  * 抽象工厂

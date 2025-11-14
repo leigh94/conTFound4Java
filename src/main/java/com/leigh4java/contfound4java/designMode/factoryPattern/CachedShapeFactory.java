@@ -1,5 +1,6 @@
 package com.leigh4java.contfound4java.designMode.factoryPattern;
 
+import com.leigh4java.contfound4java.designMode.factoryPattern.entity.Shape;
 import com.leigh4java.contfound4java.designMode.factoryPattern.factory.ShapeFactory;
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.abstractFactoryPattern;
+package com.leigh4java.contfound4java.designMode.abstractFactoryPattern.impl;
 
 // 复选框接口
 public interface CheckBox {

@@ -1,5 +1,10 @@
 package com.leigh4java.contfound4java.designMode.abstractFactoryPattern;
 
+import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.factory.GUIFactory;
+import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.impl.Button;
+import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.impl.CheckBox;
+import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.impl.TextBox;
+
 // 应用程序
 public class Application {
     private Button button;

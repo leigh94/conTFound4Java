@@ -1,7 +1,5 @@
 package com.leigh4java.contfound4java.designMode.abstractFactoryPattern.impl;
 
-import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.Button;
-
 // Mac按钮
 public class MacButton implements Button {
     @Override

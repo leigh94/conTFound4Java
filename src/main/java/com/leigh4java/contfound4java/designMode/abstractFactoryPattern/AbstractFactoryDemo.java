@@ -1,5 +1,7 @@
 package com.leigh4java.contfound4java.designMode.abstractFactoryPattern;
 
+import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.factory.GUIFactory;
+
 // 客户端演示
 public class AbstractFactoryDemo {
     public static void main(String[] args) {

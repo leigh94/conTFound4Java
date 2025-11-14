@@ -1,7 +1,5 @@
 package com.leigh4java.contfound4java.designMode.factoryPattern.entity;
 
-import com.leigh4java.contfound4java.designMode.factoryPattern.Shape;
-
 /**
  * 具体产品 - 圆形
  */

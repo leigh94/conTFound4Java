@@ -1,7 +1,5 @@
 package com.leigh4java.contfound4java.designMode.abstractFactoryPattern.impl;
 
-import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.CheckBox;
-
 // Windows复选框
 public class WindowsCheckBox implements CheckBox {
     private boolean checked = false;

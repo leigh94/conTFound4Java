@@ -1,5 +1,6 @@
 package com.leigh4java.contfound4java.designMode.abstractFactoryPattern;
 
+import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.factory.GUIFactory;
 import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.factory.MacFactory;
 import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.factory.WindowsFactory;
 
