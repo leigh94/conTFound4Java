@@ -13,26 +13,38 @@ Consolidation of the Foundation
      - [原型模式](src/main/java/com/leigh4java/contfound4java/designMode/prototypePattern/README.md)
    - 结构型
      - 这些模式关注类和对象的组合，形成更大的结构。它们通过继承和组合，使接口和实现之间建立关联。
-     - [适配器模式]()
-     - [桥接模式]()
-     - [组合模式]()
-     - [装饰器模式]()
-     - [外观模式]()
-     - [享元模式]()
-     - [代理模式]()
+     - [适配器模式](src/main/java/com/leigh4java/contfound4java/designMode/adapterPattern/README.md)
+     - [桥接模式](src/main/java/com/leigh4java/contfound4java/designMode/bridgePattern/README.md)
+     - [组合模式](src/main/java/com/leigh4java/contfound4java/designMode/compositePattern/README.md)
+     - [装饰器模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [外观模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [享元模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [代理模式](src/main/java/com/leigh4java/contfound4java/designMode/)
    - 行为型
      - 这些模式特别关注对象之间的职责分配和通信 
-     - [责任链模式]()
-     - [命令模式]()
-     - [解释器模式]()
-     - [迭代器模式]()
-     - [中介者模式]()
-     - [备忘录模式]()
-     - [观察者模式]()
-     - [状态模式]()
-     - [策略模式]()
-     - [模板方法模式]()
-     - [访问者模式]()
+     - [责任链模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [命令模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [解释器模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [迭代器模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [中介者模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [备忘录模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [观察者模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [状态模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [策略模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [模板方法模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [访问者模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+
+
+# git common commands
+```text
+# 暂存所有未提交的更改
+git stash
+
+# 恢复暂存的更改
+git stash pop
+
+```
+
 
 
 
