@@ -1,10 +1,10 @@
-package com.leigh4java.contfound4java.designMode.factoryPattern;
+package com.leigh4java.contfound4java.designMode.factoryPattern.example;
 
-import com.leigh4java.contfound4java.designMode.factoryPattern.entity.Shape;
-import com.leigh4java.contfound4java.designMode.factoryPattern.factory.CircleFactory;
-import com.leigh4java.contfound4java.designMode.factoryPattern.factory.RectangleFactory;
-import com.leigh4java.contfound4java.designMode.factoryPattern.factory.ShapeFactory;
-import com.leigh4java.contfound4java.designMode.factoryPattern.factory.TriangleFactory;
+import com.leigh4java.contfound4java.designMode.factoryPattern.example.entity.Shape;
+import com.leigh4java.contfound4java.designMode.factoryPattern.example.factory.CircleFactory;
+import com.leigh4java.contfound4java.designMode.factoryPattern.example.factory.RectangleFactory;
+import com.leigh4java.contfound4java.designMode.factoryPattern.example.factory.ShapeFactory;
+import com.leigh4java.contfound4java.designMode.factoryPattern.example.factory.TriangleFactory;
 
 /**
  * 测试代码

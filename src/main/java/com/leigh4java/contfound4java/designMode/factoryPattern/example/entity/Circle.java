@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.factoryPattern.entity;
+package com.leigh4java.contfound4java.designMode.factoryPattern.example.entity;
 
 /**
  * 具体产品 - 圆形

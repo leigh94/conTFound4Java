@@ -1,7 +1,7 @@
-package com.leigh4java.contfound4java.designMode.factoryPattern;
+package com.leigh4java.contfound4java.designMode.factoryPattern.example;
 
-import com.leigh4java.contfound4java.designMode.factoryPattern.entity.Shape;
-import com.leigh4java.contfound4java.designMode.factoryPattern.factory.ShapeFactory;
+import com.leigh4java.contfound4java.designMode.factoryPattern.example.entity.Shape;
+import com.leigh4java.contfound4java.designMode.factoryPattern.example.factory.ShapeFactory;
 
 import java.util.Arrays;
 import java.util.HashMap;

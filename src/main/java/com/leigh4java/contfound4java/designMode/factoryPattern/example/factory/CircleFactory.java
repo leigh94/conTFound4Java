@@ -1,7 +1,7 @@
-package com.leigh4java.contfound4java.designMode.factoryPattern.factory;
+package com.leigh4java.contfound4java.designMode.factoryPattern.example.factory;
 
-import com.leigh4java.contfound4java.designMode.factoryPattern.entity.Circle;
-import com.leigh4java.contfound4java.designMode.factoryPattern.entity.Shape;
+import com.leigh4java.contfound4java.designMode.factoryPattern.example.entity.Circle;
+import com.leigh4java.contfound4java.designMode.factoryPattern.example.entity.Shape;
 
 /**
  * 具体工厂 - 圆形工厂
