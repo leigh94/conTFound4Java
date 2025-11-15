@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.singletonPattern;
+package com.leigh4java.contfound4java.designMode.singletonPattern.first;
 
 /**
  * 单例模式 - 饿汉式
