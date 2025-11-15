@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.adapterPattern;
+package com.leigh4java.contfound4java.designMode.adapterPattern.example;
 
 // 2. 被适配的类 - 已有的功能但接口不兼容
 public class AdvancedMediaPlayer {

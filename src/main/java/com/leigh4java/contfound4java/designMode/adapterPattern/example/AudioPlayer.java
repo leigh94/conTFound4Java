@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.adapterPattern;
+package com.leigh4java.contfound4java.designMode.adapterPattern.example;
 
 // 4. 客户端类 - 使用目标接口
 public class AudioPlayer implements MediaPlayer {

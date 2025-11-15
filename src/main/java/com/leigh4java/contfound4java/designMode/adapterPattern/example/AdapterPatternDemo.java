@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.adapterPattern;
+package com.leigh4java.contfound4java.designMode.adapterPattern.example;
 
 // 5. 测试类
 public class AdapterPatternDemo {

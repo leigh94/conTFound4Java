@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.adapterPattern;
+package com.leigh4java.contfound4java.designMode.adapterPattern.example;
 
 // 3. 适配器类 - 将不兼容的接口转换为目标接口
 public class MediaAdapter implements MediaPlayer {
