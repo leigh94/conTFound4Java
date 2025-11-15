@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.singletonPattern;
+package com.leigh4java.contfound4java.designMode.singletonPattern.first;
 
 /**
  * 单例模式 - 静态内部类单例模式
