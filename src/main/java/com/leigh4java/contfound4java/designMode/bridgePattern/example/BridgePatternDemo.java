@@ -1,13 +1,13 @@
-package com.leigh4java.contfound4java.designMode.bridgePattern;
+package com.leigh4java.contfound4java.designMode.bridgePattern.example;
 
-import com.leigh4java.contfound4java.designMode.bridgePattern.colour.BlueColor;
-import com.leigh4java.contfound4java.designMode.bridgePattern.colour.Color;
-import com.leigh4java.contfound4java.designMode.bridgePattern.colour.GreenColor;
-import com.leigh4java.contfound4java.designMode.bridgePattern.colour.RedColor;
-import com.leigh4java.contfound4java.designMode.bridgePattern.shape.Circle;
-import com.leigh4java.contfound4java.designMode.bridgePattern.shape.Rectangle;
-import com.leigh4java.contfound4java.designMode.bridgePattern.shape.Shape;
-import com.leigh4java.contfound4java.designMode.bridgePattern.shape.Triangle;
+import com.leigh4java.contfound4java.designMode.bridgePattern.example.colour.BlueColor;
+import com.leigh4java.contfound4java.designMode.bridgePattern.example.colour.Color;
+import com.leigh4java.contfound4java.designMode.bridgePattern.example.colour.GreenColor;
+import com.leigh4java.contfound4java.designMode.bridgePattern.example.colour.RedColor;
+import com.leigh4java.contfound4java.designMode.bridgePattern.example.shape.Circle;
+import com.leigh4java.contfound4java.designMode.bridgePattern.example.shape.Rectangle;
+import com.leigh4java.contfound4java.designMode.bridgePattern.example.shape.Shape;
+import com.leigh4java.contfound4java.designMode.bridgePattern.example.shape.Triangle;
 
 public class BridgePatternDemo {
     public static void main(String[] args) {
