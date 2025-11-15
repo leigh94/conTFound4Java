@@ -1,6 +1,6 @@
-package com.leigh4java.contfound4java.designMode.bridgePattern.shape;
+package com.leigh4java.contfound4java.designMode.bridgePattern.example.shape;
 
-import com.leigh4java.contfound4java.designMode.bridgePattern.colour.Color;
+import com.leigh4java.contfound4java.designMode.bridgePattern.example.colour.Color;
 
 // 扩展抽象化角色 - 三角形
 public class Triangle extends Shape {
