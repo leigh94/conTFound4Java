@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.prototypePattern.demo;
+package com.leigh4java.contfound4java.designMode.prototypePattern.example.demo;
 
 import java.util.ArrayList;
 import java.util.List;
