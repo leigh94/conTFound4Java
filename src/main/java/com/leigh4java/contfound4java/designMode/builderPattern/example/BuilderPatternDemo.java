@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.builderPattern;
+package com.leigh4java.contfound4java.designMode.builderPattern.example;
 
 /**
  * 客户端演示类

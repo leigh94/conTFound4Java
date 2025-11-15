@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.builderPattern;
+package com.leigh4java.contfound4java.designMode.builderPattern.example;
 
 /**
  * 导演类 - 封装常见的构建过程

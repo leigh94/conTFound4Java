@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.builderPattern;
+package com.leigh4java.contfound4java.designMode.builderPattern.example;
 
 import lombok.Builder;
 import lombok.ToString;
