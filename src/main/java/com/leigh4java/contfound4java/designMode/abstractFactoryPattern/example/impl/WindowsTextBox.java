@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.abstractFactoryPattern.impl;
+package com.leigh4java.contfound4java.designMode.abstractFactoryPattern.example.impl;
 
 // Windows文本框
 public class WindowsTextBox implements TextBox {

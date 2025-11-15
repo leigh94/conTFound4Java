@@ -1,12 +1,12 @@
-package com.leigh4java.contfound4java.designMode.abstractFactoryPattern.impl;
+package com.leigh4java.contfound4java.designMode.abstractFactoryPattern.example.impl;
 
-// Mac复选框
-public class MacCheckBox implements CheckBox {
+// Windows复选框
+public class WindowsCheckBox implements CheckBox {
     private boolean checked = false;
 
     @Override
     public void render() {
-        System.out.println("渲染Mac风格复选框: " + (checked ? "☑" : "☐"));
+        System.out.println("渲染Windows风格复选框: " + (checked ? "✓" : "□"));
     }
 
     @Override

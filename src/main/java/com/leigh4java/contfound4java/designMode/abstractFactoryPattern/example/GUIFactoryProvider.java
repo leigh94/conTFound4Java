@@ -1,8 +1,8 @@
-package com.leigh4java.contfound4java.designMode.abstractFactoryPattern;
+package com.leigh4java.contfound4java.designMode.abstractFactoryPattern.example;
 
-import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.factory.GUIFactory;
-import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.factory.MacFactory;
-import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.factory.WindowsFactory;
+import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.example.factory.GUIFactory;
+import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.example.factory.MacFactory;
+import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.example.factory.WindowsFactory;
 
 // 工厂提供者
 public class GUIFactoryProvider {

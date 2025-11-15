@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.abstractFactoryPattern.impl;
+package com.leigh4java.contfound4java.designMode.abstractFactoryPattern.example.impl;
 
 // Windows按钮
 public class WindowsButton implements Button {

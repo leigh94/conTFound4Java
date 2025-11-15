@@ -1,9 +1,9 @@
-package com.leigh4java.contfound4java.designMode.abstractFactoryPattern;
+package com.leigh4java.contfound4java.designMode.abstractFactoryPattern.example;
 
-import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.factory.GUIFactory;
-import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.impl.Button;
-import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.impl.CheckBox;
-import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.impl.TextBox;
+import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.example.factory.GUIFactory;
+import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.example.impl.Button;
+import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.example.impl.CheckBox;
+import com.leigh4java.contfound4java.designMode.abstractFactoryPattern.example.impl.TextBox;
 
 // 应用程序
 public class Application {

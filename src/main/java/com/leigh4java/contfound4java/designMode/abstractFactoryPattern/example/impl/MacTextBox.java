@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.abstractFactoryPattern.impl;
+package com.leigh4java.contfound4java.designMode.abstractFactoryPattern.example.impl;
 
 // Mac文本框
 public class MacTextBox implements TextBox {
