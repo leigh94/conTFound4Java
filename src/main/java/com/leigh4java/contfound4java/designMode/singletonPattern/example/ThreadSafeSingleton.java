@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.singletonPattern.first;
+package com.leigh4java.contfound4java.designMode.singletonPattern.example;
 
 /**
  * 单例模式 - 线程安全的懒汉式
