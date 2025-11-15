@@ -1,4 +1,4 @@
-package com.leigh4java.contfound4java.designMode.singletonPattern.first;
+package com.leigh4java.contfound4java.designMode.singletonPattern.example;
 
 public class SingletonDemo {
     public static void main(String[] args) {
