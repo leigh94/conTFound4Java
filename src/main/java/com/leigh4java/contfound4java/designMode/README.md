@@ -11,7 +11,7 @@
         - 这些模式关注类和对象的组合，形成更大的结构。它们通过继承和组合，使接口和实现之间建立关联。
         - [适配器模式](adapterPattern/README.md)
         - [桥接模式](bridgePattern/README.md)
-        - [组合模式]()
+        - [组合模式](compositePattern/README.md)
         - [装饰器模式]()
         - [外观模式]()
         - [享元模式]()
