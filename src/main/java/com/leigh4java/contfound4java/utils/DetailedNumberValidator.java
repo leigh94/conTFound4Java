@@ -1,8 +1,6 @@
-package com.leigh4java.contfound4java.learnTest;
+package com.leigh4java.contfound4java.utils;
 
 import java.math.BigDecimal;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class DetailedNumberValidator {
 
