@@ -15,7 +15,7 @@
         - [装饰器模式](decoratorPattern/README.md)
         - [外观模式](facadePattern/README.md)
         - [享元模式](flyweightPattern/README.md)
-        - [代理模式]()
+        - [代理模式](proxyPattern/README.md)
     - 行为型
         - 这些模式特别关注对象之间的职责分配和通信
         - [责任链模式]()
