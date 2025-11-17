@@ -16,13 +16,13 @@ Consolidation of the Foundation
      - [适配器模式](src/main/java/com/leigh4java/contfound4java/designMode/adapterPattern/README.md)
      - [桥接模式](src/main/java/com/leigh4java/contfound4java/designMode/bridgePattern/README.md)
      - [组合模式](src/main/java/com/leigh4java/contfound4java/designMode/compositePattern/README.md)
-     - [装饰器模式](src/main/java/com/leigh4java/contfound4java/designMode/)
-     - [外观模式](src/main/java/com/leigh4java/contfound4java/designMode/)
-     - [享元模式](src/main/java/com/leigh4java/contfound4java/designMode/)
-     - [代理模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [装饰器模式](src/main/java/com/leigh4java/contfound4java/designMode/decoratorPattern/README.md)
+     - [外观模式](src/main/java/com/leigh4java/contfound4java/designMode/facadePattern/README.md)
+     - [享元模式](src/main/java/com/leigh4java/contfound4java/designMode/flyweightPattern/README.md)
+     - [代理模式](src/main/java/com/leigh4java/contfound4java/designMode/proxyPattern/README.md)
    - 行为型
      - 这些模式特别关注对象之间的职责分配和通信 
-     - [责任链模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [责任链模式](src/main/java/com/leigh4java/contfound4java/designMode/chainOfResponsibilityPattern/README.md)
      - [命令模式](src/main/java/com/leigh4java/contfound4java/designMode/)
      - [解释器模式](src/main/java/com/leigh4java/contfound4java/designMode/)
      - [迭代器模式](src/main/java/com/leigh4java/contfound4java/designMode/)
