@@ -19,7 +19,7 @@
     - 行为型
         - 这些模式特别关注对象之间的职责分配和通信
         - [责任链模式](chainOfResponsibilityPattern/README.md)
-        - [命令模式]()
+        - [命令模式](commandPattern/README.md)
         - [解释器模式]()
         - [迭代器模式]()
         - [中介者模式]()
