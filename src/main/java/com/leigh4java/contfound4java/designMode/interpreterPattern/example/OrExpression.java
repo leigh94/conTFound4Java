@@ -1,0 +1,16 @@
+package com.leigh4java.contfound4java.designMode.interpreterPattern.example;
+
+public class OrExpression implements Expression {
+    private Expression left;
+    private Expression right;
+
+    public OrExpression(Expression left, Expression right) {
+        this.left = left;
+        this.right = right;
+    }
+
+    @Override
+    public boolean interpret(Context context) {
+        return left.interpret(context) || right.interpret(context);
+    }
+}
