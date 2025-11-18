@@ -22,7 +22,7 @@
         - [命令模式](commandPattern/README.md)
         - [解释器模式](interpreterPattern/README.md)
         - [迭代器模式](iteratorPattern/README.md)
-        - [中介者模式]()
+        - [中介者模式](mediatorPattern/README.md)
         - [备忘录模式]()
         - [观察者模式]()
         - [状态模式]()
