@@ -24,7 +24,7 @@
         - [迭代器模式](iteratorPattern/README.md)
         - [中介者模式](mediatorPattern/README.md)
         - [备忘录模式](mementoPattern/README.md)
-        - [观察者模式]()
+        - [观察者模式](observerPattern/README.md)
         - [状态模式]()
         - [策略模式]()
         - [模板方法模式]()
