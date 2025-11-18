@@ -27,7 +27,7 @@
         - [观察者模式](observerPattern/README.md)
         - [状态模式](statePattern/README.md)
         - [策略模式](strategyPattern/README.md)
-        - [模板方法模式]()
+        - [模板方法模式](templateMethodPattern/README.md)
         - [访问者模式]()
 
     1. [单例模式](singletonPattern/README.md)
@@ -94,7 +94,7 @@
     21. [策略模式](strategyPattern/README.md)
         - 目的：定义一系列的算法，把它们一个个封装起来，并且使它们可相互替换。本模式使得算法可独立于使用它的客户而变化。
         - Java 示例：java.util.Comparator 接口，用于定义不同的排序策略。
-    22. [模板方法模式]()
+    22. [模板方法模式](templateMethodPattern/README.md)
         - 目的：定义一个操作中的算法的骨架，而将一些步骤延迟到子类中。模板方法使得子类可以不改变一个算法的结构即可重定义该算法的某些特定步骤。
         - Java 示例：java.io.InputStream 的 read() 方法，javax.servlet.http.HttpServlet 的 doGet(), doPost() 方法。
     23. [访问者模式]()
