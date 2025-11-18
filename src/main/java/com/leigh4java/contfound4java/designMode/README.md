@@ -23,7 +23,7 @@
         - [解释器模式](interpreterPattern/README.md)
         - [迭代器模式](iteratorPattern/README.md)
         - [中介者模式](mediatorPattern/README.md)
-        - [备忘录模式]()
+        - [备忘录模式](mementoPattern/README.md)
         - [观察者模式]()
         - [状态模式]()
         - [策略模式]()
