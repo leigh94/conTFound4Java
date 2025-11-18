@@ -26,7 +26,7 @@
         - [备忘录模式](mementoPattern/README.md)
         - [观察者模式](observerPattern/README.md)
         - [状态模式](statePattern/README.md)
-        - [策略模式]()
+        - [策略模式](strategyPattern/README.md)
         - [模板方法模式]()
         - [访问者模式]()
 
@@ -91,7 +91,7 @@
     20. [状态模式](statePattern/README.md)
         - 目的：允许一个对象在其内部状态改变时改变它的行为。对象看起来似乎修改了它的类。
         - Java 示例：线程的不同状态（NEW, RUNNABLE, BLOCKED, WAITING等）及其行为转换。
-    21. [策略模式]()
+    21. [策略模式](strategyPattern/README.md)
         - 目的：定义一系列的算法，把它们一个个封装起来，并且使它们可相互替换。本模式使得算法可独立于使用它的客户而变化。
         - Java 示例：java.util.Comparator 接口，用于定义不同的排序策略。
     22. [模板方法模式]()
