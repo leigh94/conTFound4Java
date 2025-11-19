@@ -97,7 +97,7 @@
     22. [模板方法模式](templateMethodPattern/README.md)
         - 目的：定义一个操作中的算法的骨架，而将一些步骤延迟到子类中。模板方法使得子类可以不改变一个算法的结构即可重定义该算法的某些特定步骤。
         - Java 示例：java.io.InputStream 的 read() 方法，javax.servlet.http.HttpServlet 的 doGet(), doPost() 方法。
-    23. [访问者模式]()
+    23. [访问者模式](visitorPattern/README.md)
         - 目的：表示一个作用于某对象结构中的各元素的操作。它使你可以在不改变各元素的类的前提下定义作用于这些元素的新操作。
         - Java 示例：Java 编译器的注解处理器（APT），对抽象语法树进行操作。
 
