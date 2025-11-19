@@ -2,6 +2,7 @@
 Consolidation of the Foundation
 
 
+
 # project task
 1. [23种设计模式](src%2Fmain%2Fjava%2Fcom%2Fleigh4java%2Fcontfound4java%2FdesignMode%2FREADME.md)
    - 创建型
@@ -23,28 +24,44 @@ Consolidation of the Foundation
    - 行为型
      - 这些模式特别关注对象之间的职责分配和通信 
      - [责任链模式](src/main/java/com/leigh4java/contfound4java/designMode/chainOfResponsibilityPattern/README.md)
-     - [命令模式](src/main/java/com/leigh4java/contfound4java/designMode/)
-     - [解释器模式](src/main/java/com/leigh4java/contfound4java/designMode/)
-     - [迭代器模式](src/main/java/com/leigh4java/contfound4java/designMode/)
-     - [中介者模式](src/main/java/com/leigh4java/contfound4java/designMode/)
-     - [备忘录模式](src/main/java/com/leigh4java/contfound4java/designMode/)
-     - [观察者模式](src/main/java/com/leigh4java/contfound4java/designMode/)
-     - [状态模式](src/main/java/com/leigh4java/contfound4java/designMode/)
-     - [策略模式](src/main/java/com/leigh4java/contfound4java/designMode/)
-     - [模板方法模式](src/main/java/com/leigh4java/contfound4java/designMode/)
-     - [访问者模式](src/main/java/com/leigh4java/contfound4java/designMode/)
+     - [命令模式](src/main/java/com/leigh4java/contfound4java/designMode/commandPattern/README.md)
+     - [解释器模式](src/main/java/com/leigh4java/contfound4java/designMode/interpreterPattern/README.md)
+     - [迭代器模式](src/main/java/com/leigh4java/contfound4java/designMode/iteratorPattern/README.md)
+     - [中介者模式](src/main/java/com/leigh4java/contfound4java/designMode/mediatorPattern/README.md)
+     - [备忘录模式](src/main/java/com/leigh4java/contfound4java/designMode/mementoPattern/README.md)
+     - [观察者模式](src/main/java/com/leigh4java/contfound4java/designMode/observerPattern/README.md)
+     - [状态模式](src/main/java/com/leigh4java/contfound4java/designMode/statePattern/README.md)
+     - [策略模式](src/main/java/com/leigh4java/contfound4java/designMode/strategyPattern/README.md)
+     - [模板方法模式](src/main/java/com/leigh4java/contfound4java/designMode/templateMethodPattern/README.md)
+     - [访问者模式](src/main/java/com/leigh4java/contfound4java/designMode/visitorPattern/README.md)
+
 
 
 # git common commands
+
+1. ### 暂存
 ```text
 # 暂存所有未提交的更改
 git stash
 
 # 恢复暂存的更改
 git stash pop
-
 ```
 
+2. ### 合并
+```text
+# 拉取远程分支
+git pull origin main
+
+# 切换分支
+git checkout main
+
+# 合并 （designMode -> main）
+git merge designMode
+
+# 推送origin
+git push -u origin main
+```
 
 
 
