@@ -196,11 +196,69 @@
   ```
 
 - 接口隔离原则[Interface Segregation Principle, ISP]
+
+
 - 依赖倒置原则[Dependency Inversion Principle, DIP]
+
+
 - 里氏替换原则[Liskov Substitution Principle, LSP]
+  - 定义：
+  - 解释
+  - 例子
+  ```java
+  
+  ```
+
 - 开闭原则[Open-Closed Principle, OCP]
+  - 定义：软件实体（类 、模块、函数等）应该对扩展开放，对修改关闭
+  - 解释：当需要添加新功能时，应该通过扩展现有代码来实现，而不是修改已有的代码
+  - 例子：
+  ```java
+    // 假设我们有一个图形编辑器，需要绘制不同的图形。如果不遵循OCP，每次新增图形类型都需要修改编辑器类
+    // 违反OCP的示例
+    class GraphicEditor {
+        public void drawShape(Shape shape){
+            if (shape.type == 1) {
+                drawCircle(shape);
+            }else if (shape.type == 2) {
+                drawRectangle(shape);
+            }
+        }
+        private void drawCircle(Circle circle){}
+        private void drawRectangle(Rectangle rectangle) {}
+    }
+    
+  
+    // 遵循OCP，使用抽象和多态
+    abstract class Shape {
+        abstract void draw();
+    }
+  
+    class Circle extends Shape {
+        void draw(){
+            // 绘制圆形
+        }
+    }
+  
+    class Rectangle extends Shape {
+        void draw(){
+            // 绘制矩形
+        }
+    }
+  
+    class GraphicEditor {
+        public void drawShape(Shape shape){
+            shape.draw();
+        }
+    }
+    
+    ```
+
 - 迪米特法则[Law of Demeter, LoD] OR 最少知识原则[Least Knowledge Principle]
+
+
 - 合成复用原则[Composite Reuse Principle, CRP]
+
 
 ---
 
