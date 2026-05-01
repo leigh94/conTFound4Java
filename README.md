@@ -35,6 +35,9 @@ Consolidation of the Foundation
      - [模板方法模式](src/main/java/com/leigh4java/contfound4java/designMode/templateMethodPattern/README.md)
      - [访问者模式](src/main/java/com/leigh4java/contfound4java/designMode/visitorPattern/README.md)
 
+2. [java基础](src/main/java/com/leigh4java/contfound4java/javaSeBasics/README.md)
+
+3. [java新特性](src%2Fmain%2Fjava%2Fcom%2Fleigh4java%2Fcontfound4java%2FnewFeature%2FREADME.md)
 
 
 # git common commands
